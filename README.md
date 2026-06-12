@@ -6,6 +6,8 @@ Financial bot for automated financial operations.
 
 Smoke test: JOZ-15 validates the `pr_created` event flow.
 
+Smoke test after label routing config and node re-pair.
+
 ## Setup
 
 ```bash
